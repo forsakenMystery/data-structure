@@ -8,11 +8,11 @@ I used DEV c++ to develope this program. At first, I wrote sth to generate a fol
 
 ## Running the tests
 
-you can compile this:
-g++ -O3 -march=native main.cpp -o main
-and run it with:
-.\main
-or use dev c++ to compile and run it
+you can compile this:<br/>
+g++ -O3 -march=native main.cpp -o main<br/>
+and run it with:<br/>
+.\main<br/>
+or use dev c++ to compile and run it<br/>
 
 Showing students:
 ![Show students](https://github.com/forsakenMystery/data-structure/blob/master/showing_students.gif)
