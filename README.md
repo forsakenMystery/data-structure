@@ -14,6 +14,11 @@ and run it with:
 .\main
 or use dev c++ to compile and run it
 
+Showing students:
+![Show students](https://github.com/forsakenMystery/data-structure/blob/master/showing_students.gif)
+Deleting students:
+![Delete students](https://github.com/forsakenMystery/data-structure/blob/master/delete_find_students.gif)
+
 ## Authors
 
 * **Hamed Khashehchi** - [forsaken Mystery](https://github.com/forsakenMystery)
